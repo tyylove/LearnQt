@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/图标">
+        <file>Image/01/1.jpg</file>
+        <file>Image/01/2.jpg</file>
+        <file>Image/01/3.jpg</file>
+        <file>Image/01/4.jpg</file>
+        <file>Image/01/5.jpg</file>
+        <file>Image/01/6.jpg</file>
+        <file>Image/01/7.jpg</file>
+        <file>Image/01/8.jpg</file>
+    </qresource>
+</RCC>
